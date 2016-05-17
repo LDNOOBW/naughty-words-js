@@ -1,0 +1,19 @@
+{
+  "name": "naughty-words-js",
+  "version": "1.0.0",
+  "description": "An npm package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
+  "main": "index.js",
+  "scripts": {
+    "build": "echo \"TODO clone main repo and convert to json\" && exit 1",
+    "test": "echo \"TODO: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words.git"
+  },
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/issues"
+  },
+  "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words#readme"
+}
