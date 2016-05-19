@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/issues"
   },
-  "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words#readme"
+  "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words#readme",
+  "devDependencies": {
+    "browserify": "^13.0.1"
+  }
 }

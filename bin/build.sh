@@ -12,7 +12,7 @@ echo "module.exports = {};" > index.js
 
 for textFile in $FILES
 do
-  jsonFile="${textFile##*/}.json";
+  jsonFile="${textFile##*/}.js";
 
   # Don't include non-language files
   if [[ ${textFile##*/} =~ "LICENSE" || ${textFile##*/} =~ "README.md" || ${textFile##*/} =~ "USERS.md" ]]
@@ -22,7 +22,7 @@ do
   fi
 
   echo "Converting ${textFile##*/} to json";
-  echo "[" > $jsonFile;
+  echo "module.exports = [" > $jsonFile;
   cat $textFile | perl -pe 's/^(.+)$/  "\1",/g' >> $jsonFile;
   echo "]" >> $jsonFile;
 
