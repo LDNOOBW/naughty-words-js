@@ -4,7 +4,7 @@
   "description": "An npm package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
   "main": "index.js",
   "scripts": {
-    "build": "echo \"TODO clone main repo and convert to json\" && exit 1",
+    "build": "./bin/build.sh",
     "test": "echo \"TODO: no test specified\" && exit 1"
   },
   "repository": {
