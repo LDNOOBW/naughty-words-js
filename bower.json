@@ -1,5 +1,6 @@
 {
   "name": "naughty-words-js",
+  "version": "1.0.0",
   "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
   "description": "A bower package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
   "main": "index.js",
