@@ -1,6 +1,6 @@
 {
   "name": "naughty-words",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
   "description": "A bower package to use the List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words",
   "main": "index.js",
@@ -21,7 +21,7 @@
     "keywords",
     "lexicography"
   ],
-  "license": "Apache-2.0",
+  "license": "CC-BY-4.0",
   "ignore": [
     "**/.*",
     "node_modules",
