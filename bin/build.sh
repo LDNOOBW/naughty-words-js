@@ -27,7 +27,7 @@ do
   echo "]" >> $jsonFile;
 
   echo "  Adding ${textFile##*/} to index.js";
-  echo "module.exports['${textFile##*/}'] = require('$jsonFile');" >> index.js
+  echo "module.exports['${textFile##*/}'] = require('./$jsonFile');" >> index.js
 done
 
 echo "=================";
