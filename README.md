@@ -94,7 +94,7 @@ console.log(words.de);
 
 See also the [list of projects, documents, and organizations](https://github.com/LDNOOBW/List-of-Dirty-Naughty-Obscene-and-Otherwise-Bad-Words/blob/master/USERS.md) that use these lists.
 
-© 2012–2019 Shutterstock, Inc.
+© 2012–2020 Shutterstock, Inc.
 
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/80x15.png)](http://creativecommons.org/licenses/by/4.0/)
 
